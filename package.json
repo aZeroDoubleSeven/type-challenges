@@ -1,0 +1,29 @@
+{
+  "name": "type-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aZeroDoubleSeven/type-challenges.git"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.25.1",
+    "@types/fs-extra": "^9.0.13",
+    "@types/js-yaml": "^4.0.5",
+    "@types/lz-string": "^1.3.34",
+    "@types/node": "^18.0.0",
+    "eslint": "^8.18.0",
+    "typescript": "^4.7.4",
+    "utility-types": "^3.10.0"
+  },
+  "author": "goodman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aZeroDoubleSeven/type-challenges/issues"
+  },
+  "homepage": "https://github.com/aZeroDoubleSeven/type-challenges#readme"
+}
